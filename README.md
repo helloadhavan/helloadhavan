@@ -153,22 +153,19 @@ Trying to predict the stock market: a market that has access to information I do
 
 <div align="center">
 
-<a href="https://github.com/helloadhavan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=helloadhavan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/helloadhavan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloadhavan&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</a>
+<p align="center">
+  <img
+    height="165"
+    src="./profile/stats.svg"
+    alt="GitHub statistics"
+  />
 
-<br/>
-
-<a href="https://streak-stats.demolab.com/?user=helloadhavan">
-  <img src="https://streak-stats.demolab.com?user=helloadhavan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</a>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=helloadhavan&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
+  <img
+    height="165"
+    src="./profile/top-langs.svg"
+    alt="Most used languages"
+  />
+</p>
 
 </div>
 
